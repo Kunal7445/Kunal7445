@@ -55,8 +55,8 @@ Focused on software engineering, data structures, databases, machine learning, a
 
 ## 📫 Contact
 
-- LinkedIn: *(https://www.linkedin.com/in/kunal-singh-229130261/)*  
-- Email: *(kunal.singh7445@gmail.com)*  
+📫 Email: kunal.singh7445@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/kunal-singh-229130261/ 
 
 ---
 
